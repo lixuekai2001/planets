@@ -1,5 +1,12 @@
 But the mmy will appreciate the lack of humnity.
 I have made a change here. Janis
+<<<<<<< HEAD
 
 
 New changes have been made here. _Jimmy!
+=======
+We are both doing this at the same time.
+>>>>>>> 1e2076ade8b9360278d3bd36d8683a1b91db065d
+
+
+new new change!
